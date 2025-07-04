@@ -25,7 +25,7 @@
 ### 1. 克隆项目
 ```bash
 git clone https://github.com/example/voice-emotion-recognition.git
-cd voice
+cd voice-emotion-recognition
 ```
 
 ### 2. 创建虚拟环境（推荐）
