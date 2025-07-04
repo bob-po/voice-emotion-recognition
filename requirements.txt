@@ -1,0 +1,14 @@
+torch
+torchaudio
+transformers
+datasets
+librosa
+soundfile
+numpy
+scipy
+flask
+flask-cors
+gradio
+accelerate
+sentencepiece
+protobuf
