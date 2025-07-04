@@ -29,8 +29,8 @@
 
 ```bash
 # 克隆项目
-git clone <repository-url>
-cd voice
+git clone https://github.com/example/voice-emotion-recognition.git
+cd voice-emotion-recognition
 
 # 创建虚拟环境
 python -m venv voice-env
