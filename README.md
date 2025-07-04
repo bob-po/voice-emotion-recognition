@@ -113,7 +113,7 @@ result = recognizer.predict_emotion_from_array(audio_array, sample_rate=16000)
 ## 📁 项目结构
 
 ```
-voice/
+voice-emotion-recognition/
 ├── requirements.txt              # 项目依赖
 ├── emotion_speech_recognition.py # 核心识别类
 ├── web_interface.py             # Web界面
